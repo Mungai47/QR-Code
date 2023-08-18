@@ -1,0 +1,48 @@
+.qr-code {
+    background-color: hsl(212, 45%, 89%);
+    width: 100%;
+    height: auto; /* Adjusted height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10vh 0; /* Used relative units for padding */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.card-text {
+    font-size: 15px;
+    font-weight: 500; /* Use numerical value for font weight */
+}
+
+.card-title {
+    font-weight: 600; /* Use numerical value for font weight */
+}
+
+
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 0; /* Card takes full width on smaller screens */
+    }
+    .qr-code {
+        width: 100%; /* Card takes full width on smaller screens */
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .container {
+        padding: 50px 0; /* Card width for larger screens */
+    }
+    .qr-code {
+        width: 100%; /* Card width for larger screens */
+        max-width: 1440px; /* Set a maximum width for larger screens */
+        margin: 0 auto; /* Center the content horizontally */
+    }
+}
+
