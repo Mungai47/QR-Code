@@ -19,14 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./images/Frontend-Mentor-QR-code-component.png)
+![Screenshot](./images/Frontend-Mentor-QR-code-component%20(1).png)
 
 Add a screenshot of your solution. The screenshot showcases the QR code component as it appears on different devices.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Mungai47/QR-Code)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-qr-code-sol.netlify.app/)
 
 ## My Process
 
@@ -54,6 +55,7 @@ Here's an example of code where I customized the QR code container:
     padding: 10vh 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
+```
 
 ## Continued Development
 
@@ -68,9 +70,9 @@ While working on this challenge, I found the following resources to be particula
 
 ## Author
 
-- **GitHub** - [Your GitHub Username](https://github.com/yourusername)
-- **Frontend Mentor** - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- **Twitter** - [@yourusername](https://www.twitter.com/yourusername)
+- **GitHub** - [Mungai47](https://github.com/Mungai47)
+- **Frontend Mentor** - [@Josephmungai99](https://www.frontendmentor.io/profile/Josephmungai99)
+- **Twitter** - [@joseph_mungai_](https://twitter.com/joseph_mungai_)
 
 ## Acknowledgments
 
